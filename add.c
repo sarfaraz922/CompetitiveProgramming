@@ -6,6 +6,6 @@ int main(){
 	a=10;
 	b=20;
 	c= a+b;
-	printf("summation of %d and %d is equal to %d\n",a,b,c);
+	printf("sum of %d and %d is equal to %d\n",a,b,c);
 	return 0;
 }
