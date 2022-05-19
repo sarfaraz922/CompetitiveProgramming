@@ -1,2 +1,3 @@
 hello add.c file is to add two number and print the addition. thanks
-hello changing after staging.
+hello changing after staging . hello testing diff command.
+testing further.
